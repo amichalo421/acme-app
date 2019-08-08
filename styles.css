@@ -6,3 +6,7 @@
     color: black;
 
 }
+
+.viewport {
+    display: flex;
+}
